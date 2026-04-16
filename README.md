@@ -1,2 +1,2 @@
 # weako
-<h3>tracker<h3/>
+<h3>Tracker<h3/>

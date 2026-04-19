@@ -1,2 +1,2 @@
 # Weako
-<h3>Tracker<h3/>
+<h3>Tracker with stakes<h3/>

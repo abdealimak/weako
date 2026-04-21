@@ -1,2 +1,2 @@
 # Weako 👎
-<h3> A Tracker With Stakes 📈📉 <h3/>
+<h3> A Tracker With Stakes 📈 || 📉 <h3/>

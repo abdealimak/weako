@@ -1,3 +1,3 @@
 <h1> Weako 👎 </h1>
 <h3> A Tracker With Stakes 📉📈 </h3>
-<h3> Compete with your friends </h3>
+<h3> Compete With your friends </h3>
